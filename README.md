@@ -6,3 +6,4 @@ En este repositorio se puede encontrar los códigos fuentes necesarios para la c
 Además, se encuentra en cada carpeta todo lo necesario para la correcta ejecución de los códigos.
 Tras la ejecución de los códigos de cálculo de distancia se genera un archivo CSV con la recopilación de las distancias obtenidas por frame y tiempo de procesamiento.
 Para el funcionamiento de los programas, se deberá introducir en código la ruta de los vídeos de los que se quiera calcular la distancia a la persona.
+Los vídeos con los que se han probado lós códigos se encuentran en el siguiente enlace: https://upm365-my.sharepoint.com/:f:/g/personal/pedro_menchero_meco_alumnos_upm_es/EmBYZfJzVCZJsxKTLHhY-mAByTXHSLCKG5-in4mUamGNRQ?e=6avNcA
